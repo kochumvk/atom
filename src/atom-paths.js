@@ -60,3 +60,6 @@ module.exports = {
 
   getAppDirectory: getAppDirectory
 }
+
+//sample code for test
+var x = 5;
